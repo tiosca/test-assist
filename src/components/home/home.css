@@ -1,0 +1,30 @@
+/*stiu ca trebuia sa le includ pe toate in .container, dar nu imi dadea erori cand introduceam o clasa in alta si am decis sa procedez asa.*/
+.sidebar {
+    width: 230px;
+    height: 1024px;
+    background-color: #347ab4;
+    color: #fff;
+
+}
+.logo{
+    margin-left: 65px;
+    margin-bottom: 20px;
+}
+.footer{
+    background-color: #ededed;
+    height: 40px;
+    justify-content: right;
+    width: 100%;
+    overflow: hidden;
+    color: #515356;
+
+
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+
+
